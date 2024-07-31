@@ -1,4 +1,4 @@
-package com.klug.consumerservice;
+package com.klug.consumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
